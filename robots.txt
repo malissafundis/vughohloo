@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phooceichu.capicue.com/sitemap.xml
